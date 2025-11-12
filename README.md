@@ -153,4 +153,13 @@ Perulangan ke: 2
 Perulangan ke: 10
 ```
 
+![foto](https://github.com/NadhiaShafira/Lab7Web/blob/62f7aa37cef36837e61fa248f6f46952f39f8b37/Screenshots_Prak7_PHPDasar/08_for_loop.png) 
+
+### 🔹 Halaman 68 — Perulangan WHILE
+
+File : perulangan_while.php
+Menampilkan angka 1–10 menggunakan struktur WHILE.
+
+**Hasil**
+
 ![foto](
