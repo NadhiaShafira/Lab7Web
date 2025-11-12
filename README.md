@@ -38,8 +38,24 @@ Menampilkan teks awal untuk memastikan PHP berjalan dengan benar.
 echo "<h1>Belajar PHP Dasar</h1>";
 echo "Hello World<br>";
 ?>
+```
 
-Hasil:
+**Hasil : **
 
+![foto](https://github.com/NadhiaShafira/Lab7Web/blob/29131b0dc17a4fddf13b0838978ee1c69b3d2320/Screenshots_Prak7_PHPDasar/01_php_dasar_hello.png) 
 
+### 🔹 Halaman 62— Variabel PHP
+
+File : php_dasar.php
+Menambahkan variabel NIM dan Nama, serta menampilkannya di browser.
+
+**Kode Singkat:**
+
+```$nim = "0411500400";
+$nama = "Nadhia Shafira";
+echo "NIM : " . $nim . "<br>";
+echo "Nama : " . $nama;
+```
+
+**Hasil :**
 
