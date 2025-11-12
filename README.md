@@ -138,4 +138,19 @@ Menampilkan nama hari menggunakan struktur SWITCH–CASE.
 Rabu
 ```
 
+![foto](https://github.com/NadhiaShafira/Lab7Web/blob/850712d6ae937ae59efd6e645318f5ef2dc8b83f/Screenshots_Prak7_PHPDasar/07_switch_condition.png)
+
+### 🔹 Halaman 67 — Perulangan FOR
+
+File : perulangan_for.php
+Menampilkan angka 1–10, lalu menurun dari 10–1.
+
+**Hasil:**
+
+```Perulangan ke: 1
+Perulangan ke: 2
+...
+Perulangan ke: 10
+```
+
 ![foto](
