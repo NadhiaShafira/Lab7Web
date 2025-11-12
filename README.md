@@ -1,26 +1,13 @@
-# Lab7Web
 
 # 🧩 Praktikum 7 - PHP Dasar
 
-**Nama : Nadhia Shafira** 
+**Nama                 : Nadhia Shafira** 
 
-**NIM :312410498**  
+**NIM                  : 312410498**  
 
-**Kelas :TI.24.A.5**
+**Kelas                : TI.24.A.5**
 
-**Mata Kuliah :Pemograman Web 1**
-
----
-
-## 📘 Tujuan Praktikum
-
-1. Mengenal dasar bahasa pemrograman PHP.
-2. 
-3. Memahami penggunaan variabel, operator, percabangan, dan perulangan dalam PHP.
-4. 
-5. Menerapkan form input dengan metode GET dan POST.
-6. 
-7. Menggabungkan konsep PHP dasar dalam pembuatan form sederhana.  
+**Mata Kuliah          : Pemograman Web 1**
 
 ---
 
@@ -184,4 +171,4 @@ Menampilkan form input (Nama, Tanggal Lahir, Pekerjaan) dan menghitung umur otom
 
 **Hasil Sesudah Di Isi :**
 
-![foto](
+![foto](https://github.com/NadhiaShafira/Lab7Web/blob/2d7adda6b163210a190499f787d004ef77f24599/Screenshots_Prak7_PHPDasar/form_output_result%20(2).png) 
