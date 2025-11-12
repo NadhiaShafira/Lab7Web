@@ -125,4 +125,17 @@ Menampilkan nama hari berdasarkan tanggal saat ini menggunakan IF–ELSE.
 Rabu
 ```
 
+![foto](https://github.com/NadhiaShafira/Lab7Web/blob/2077f74973d3c47f76fd92940f5c5837a9cf8598/Screenshots_Prak7_PHPDasar/06_if_condition.png)
+
+### 🔹 Halaman 66 — Kondisi SWITCH
+
+File : kondisi_switch.php
+Menampilkan nama hari menggunakan struktur SWITCH–CASE.
+
+**Hasil:**
+
+```Kondisi Switch
+Rabu
+```
+
 ![foto](
