@@ -106,10 +106,23 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 File : operator.php
 Menghitung gaji sebelum dan sesudah pajak.
 
-**Hasil:**
+**Hasil :**
 
 ```Gaji sebelum pajak = Rp. 1000000
 Gaji yang dibawa pulang = Rp. 900000
 ```
 
+![foto](https://github.com/NadhiaShafira/Lab7Web/blob/bc2c4b0afa522aad8883b1736fb1051c7b40788d/Screenshots_Prak7_PHPDasar/05_operator_result.png)
 
+### 🔹 Halaman 65 — Kondisi IF
+
+File : kondisi_if.php
+Menampilkan nama hari berdasarkan tanggal saat ini menggunakan IF–ELSE.
+
+**Hasil :**
+
+```Kondisi IF
+Rabu
+```
+
+![foto](
