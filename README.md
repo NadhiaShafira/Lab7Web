@@ -132,7 +132,7 @@ Rabu
 File : kondisi_switch.php
 Menampilkan nama hari menggunakan struktur SWITCH–CASE.
 
-**Hasil:**
+**Hasil :**
 
 ```Kondisi Switch
 Rabu
@@ -145,7 +145,7 @@ Rabu
 File : perulangan_for.php
 Menampilkan angka 1–10, lalu menurun dari 10–1.
 
-**Hasil:**
+**Hasil :**
 
 ```Perulangan ke: 1
 Perulangan ke: 2
@@ -160,7 +160,7 @@ Perulangan ke: 10
 File : perulangan_while.php
 Menampilkan angka 1–10 menggunakan struktur WHILE.
 
-**Hasil**
+**Hasil :**
 
 ![foto](https://github.com/NadhiaShafira/Lab7Web/blob/4b21de9844612a860dc816d654d805c1822b7acd/Screenshots_Prak7_PHPDasar/09_while_loop.png) 
 
@@ -169,6 +169,15 @@ Menampilkan angka 1–10 menggunakan struktur WHILE.
 File : perulangan_do_while.php
 Menampilkan angka 1–10 dengan perulangan DO–WHILE.
 
-**Hasil**
+**Hasil :**
+
+![foto](https://github.com/NadhiaShafira/Lab7Web/blob/ebaef49ae5c66b0531fc138409716ffc07cf6e4f/Screenshots_Prak7_PHPDasar/10_do_while_loop.png) 
+
+### 🔹 Halaman 70 — Form Input dan Output
+
+File : form_input_output.php
+Menampilkan form input (Nama, Tanggal Lahir, Pekerjaan) dan menghitung umur otomatis.
+
+**Hasil :**
 
 ![foto](
