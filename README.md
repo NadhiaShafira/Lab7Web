@@ -59,3 +59,18 @@ echo "Nama : " . $nama;
 
 **Hasil :**
 
+![foto](https://github.com/NadhiaShafira/Lab7Web/blob/a1598cd7e8769a68a43437a6a9bdb60b87094868/Screenshots_Prak7_PHPDasar/02_php_dasar_variable.png) 
+
+### 🔹 Halaman 62 — Predefine Variable $_GET
+
+File : latihan_get.php
+Menampilkan data nama yang dikirim melalui URL.
+
+**Kode Singkat:**
+
+```$nama = $_GET['nama'];
+echo "Selamat Datang " . $nama;
+```
+
+**Hasil :**
+
