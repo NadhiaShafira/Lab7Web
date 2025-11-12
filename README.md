@@ -99,4 +99,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 **Hasil :**
 
-![foto](
+![foto](https://github.com/NadhiaShafira/Lab7Web/blob/5bd81aa83880c2a05d5ebee89fc3ffb95e7620c8/Screenshots_Prak7_PHPDasar/04_post_result.png)
+
+### 🔹 Halaman 64 — Operator PHP
+
+File : operator.php
+Menghitung gaji sebelum dan sesudah pajak.
+
+**Hasil:**
+
+```Gaji sebelum pajak = Rp. 1000000
+Gaji yang dibawa pulang = Rp. 900000
+```
+
+
