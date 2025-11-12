@@ -15,9 +15,6 @@
 
 ### 🔹 Halaman 61 — Menampilkan Teks Dasar PHP
 
-**File :** `php_dasar.php`  
-Menampilkan teks awal untuk memastikan PHP berjalan dengan benar.
-
 **Kode Singkat:**
 
 ```php
@@ -27,9 +24,10 @@ echo "Hello World<br>";
 ?>
 ```
 
-**Hasil : **
+**Hasil :**
 
 ![foto](https://github.com/NadhiaShafira/Lab7Web/blob/29131b0dc17a4fddf13b0838978ee1c69b3d2320/Screenshots_Prak7_PHPDasar/01_php_dasar_hello.png) 
+
 
 ### 🔹 Halaman 62— Variabel PHP
 
@@ -48,6 +46,7 @@ echo "Nama : " . $nama;
 
 ![foto](https://github.com/NadhiaShafira/Lab7Web/blob/a1598cd7e8769a68a43437a6a9bdb60b87094868/Screenshots_Prak7_PHPDasar/02_php_dasar_variable.png) 
 
+
 ### 🔹 Halaman 62 — Predefine Variable $_GET
 
 File : latihan_get.php
@@ -62,6 +61,7 @@ echo "Selamat Datang " . $nama;
 **Hasil :**
 
 ![foto](https://github.com/NadhiaShafira/Lab7Web/blob/595971642183d4595ec452fccc9f93c603cb3d6d/Screenshots_Prak7_PHPDasar/03_get_result.png)
+
 
 ### 🔹 Halaman 63 — Predefine Variable $_POST
 
@@ -88,6 +88,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 ![foto](https://github.com/NadhiaShafira/Lab7Web/blob/5bd81aa83880c2a05d5ebee89fc3ffb95e7620c8/Screenshots_Prak7_PHPDasar/04_post_result.png)
 
+
 ### 🔹 Halaman 64 — Operator PHP
 
 File : operator.php
@@ -100,6 +101,7 @@ Gaji yang dibawa pulang = Rp. 900000
 ```
 
 ![foto](https://github.com/NadhiaShafira/Lab7Web/blob/bc2c4b0afa522aad8883b1736fb1051c7b40788d/Screenshots_Prak7_PHPDasar/05_operator_result.png)
+
 
 ### 🔹 Halaman 65 — Kondisi IF
 
@@ -114,6 +116,7 @@ Rabu
 
 ![foto](https://github.com/NadhiaShafira/Lab7Web/blob/2077f74973d3c47f76fd92940f5c5837a9cf8598/Screenshots_Prak7_PHPDasar/06_if_condition.png)
 
+
 ### 🔹 Halaman 66 — Kondisi SWITCH
 
 File : kondisi_switch.php
@@ -126,6 +129,7 @@ Rabu
 ```
 
 ![foto](https://github.com/NadhiaShafira/Lab7Web/blob/850712d6ae937ae59efd6e645318f5ef2dc8b83f/Screenshots_Prak7_PHPDasar/07_switch_condition.png)
+
 
 ### 🔹 Halaman 67 — Perulangan FOR
 
@@ -142,6 +146,7 @@ Perulangan ke: 10
 
 ![foto](https://github.com/NadhiaShafira/Lab7Web/blob/62f7aa37cef36837e61fa248f6f46952f39f8b37/Screenshots_Prak7_PHPDasar/08_for_loop.png) 
 
+
 ### 🔹 Halaman 68 — Perulangan WHILE
 
 File : perulangan_while.php
@@ -151,6 +156,7 @@ Menampilkan angka 1–10 menggunakan struktur WHILE.
 
 ![foto](https://github.com/NadhiaShafira/Lab7Web/blob/4b21de9844612a860dc816d654d805c1822b7acd/Screenshots_Prak7_PHPDasar/09_while_loop.png) 
 
+
 ### 🔹 Halaman 69 — Perulangan DO WHILE
 
 File : perulangan_do_while.php
@@ -159,6 +165,7 @@ Menampilkan angka 1–10 dengan perulangan DO–WHILE.
 **Hasil :**
 
 ![foto](https://github.com/NadhiaShafira/Lab7Web/blob/ebaef49ae5c66b0531fc138409716ffc07cf6e4f/Screenshots_Prak7_PHPDasar/10_do_while_loop.png) 
+
 
 ### 🔹 Halaman 70 — Form Input dan Output
 
