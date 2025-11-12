@@ -178,6 +178,10 @@ Menampilkan angka 1–10 dengan perulangan DO–WHILE.
 File : form_input_output.php
 Menampilkan form input (Nama, Tanggal Lahir, Pekerjaan) dan menghitung umur otomatis.
 
-**Hasil :**
+**Hasil Sebelum Di Isi :**
+
+![foto](https://github.com/NadhiaShafira/Lab7Web/blob/ec8e0d28e671aa918c02536222ec84ade5a38f9d/Screenshots_Prak7_PHPDasar/form_output_result%20(1).png) 
+
+**Hasil Sesudah Di Isi :**
 
 ![foto](
