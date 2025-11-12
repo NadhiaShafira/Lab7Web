@@ -74,3 +74,29 @@ echo "Selamat Datang " . $nama;
 
 **Hasil :**
 
+![foto](https://github.com/NadhiaShafira/Lab7Web/blob/595971642183d4595ec452fccc9f93c603cb3d6d/Screenshots_Prak7_PHPDasar/03_get_result.png)
+
+### 🔹 Halaman 63 — Predefine Variable $_POST
+
+File : latihan_post.php
+Mengirim data melalui form menggunakan metode POST.
+
+**Kode Singkat:**
+
+```<form method="post" action="">
+    <label>Nama: </label>
+    <input type="text" name="nama" required>
+    <input type="submit" value="Kirim">
+</form>
+
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $nama = $_POST['nama'];
+    echo "<h3>Halo $nama, selamat datang di praktikum web.</h3>";
+}
+?>
+```
+
+**Hasil :**
+
+![foto](
